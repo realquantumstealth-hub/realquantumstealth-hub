@@ -1,8 +1,4 @@
 <!-- Profile README for realquantumstealth-hub / Quantumstealth -->
-<div align="center">
-  <a href="https://github.com/realquantumstealth-hub/realquantumstealth-PCILeech-text">
-    <img src="https://github.com/realquantumstealth-hub/realquantumstealth-images/raw/main/logo.jpg" width="140" alt="Quantumstealth Logo">
-  </a>
   <h1>Quantumstealth</h1>
   <p><strong>面向硬件安全、DMA 对抗与反作弊透明性研究的开放团队</strong></p>
 
