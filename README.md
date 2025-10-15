@@ -18,13 +18,13 @@
 
 ## 📚 文档与知识库
 - 文档中心（持续更新）：**[Quantumstealth Text Documentation]**  
-  详见 Wiki 与 README，包含团队声明、案例说明、开源固件目录、贡献方式等。
+  详见 Wiki 与 README，包含团队声明、案例说明、开源固件目录等。
 
 [Quantumstealth Text Documentation]: https://github.com/realquantumstealth-hub/realquantumstealth-PCILeech-text
 
 ## 📣 官方声明（重要）
 - **Quantumstealth** 仅为团队名称，并非任何固件的类别或“隐身”承诺  
-- 我们的公开内容与产物 **不用于任何形式的作弊**；团队也 **未授权** 任何个人/机构以团队名义售卖软硬件  
+- 我们的公开内容与产物 **不用于任何形式的作弊**；团队也 **未授权** 任何个人/机构以团队名义售卖用于作弊的软硬件  
 - 我们专注 **学术研究与安全教育**，反对技术滥用与违法行为
 
 ## 📬 联系方式
