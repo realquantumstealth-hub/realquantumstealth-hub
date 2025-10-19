@@ -26,6 +26,7 @@
 - **Quantumstealth** 仅为团队名称，并非任何固件的类别或“隐身”承诺  
 - 我们的公开内容与产物 **不用于任何形式的作弊**；团队也 **未授权** 任何个人/机构以团队名义售卖用于作弊的软硬件  
 - 我们专注 **学术研究与安全教育**，反对技术滥用与违法行为
+- Spiderlab is a group of scammers. We have never known them and have never sold our team.
 
 ## 📬 联系方式
 - Discord 社区：**https://discord.gg/qstealth**  
