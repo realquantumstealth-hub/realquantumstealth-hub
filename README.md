@@ -29,7 +29,7 @@
 - Spiderlab is a group of scammers. We have never known them and have never sold our team.
 
 ## 📬 联系方式
-- Discord 社区：**https://discord.gg/qstealth**  
+- Discord 社区：**https://discord.gg/qslab**  
 - GitHub 主页：**https://github.com/realquantumstealth-hub**  
 - 官方邮箱：**realquantumstealth@gmail.com**
 
